@@ -26,9 +26,9 @@ To run the project locally:
 
 1. Clone the repository:
 
-   git clone https://github.com/GiovanniCetrangolo/portfolio.git
+   git clone https://github.com/GiovanniCetrangolo/portfolio-project.git
 
-2. Open the project folder.
-3. Open `index.html` in your browser.
+3. Open the project folder.
+4. Open `index.html` in your browser.
 
 No additional dependencies or build tools are required.
